@@ -1,4 +1,14 @@
-### Hi there 👋
+[![Header](https://github.com/MarynaHl/MarynaHl/blob/main/assets/giphy.gif)](https://github.com/MarynaHl?tab=repositories)
+
+About me
+
+Languages and Tools
+
+Follow me
+
+
+
+
 
 <!--
 **MarynaHl/MarynaHl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
