@@ -6,6 +6,7 @@
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/redux-green?style=for-the-badge&logo=Redux)
 ![Firebase](https://img.shields.io/badge/Firebase-red?style=for-the-badge&logo=Firebase)
+![Node](https://img.shields.io/badge/Node-yellow?style=for-the-badge&logo=Node.js)
  
 
 
