@@ -1,8 +1,10 @@
 [![Header](https://github.com/MarynaHl/MarynaHl/blob/main/assets/giphy.gif)](https://github.com/MarynaHl?tab=repositories)
 
-About me
+## I'm a beginner Frontend Developer
 
-Languages and Tools
+## Languages and Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-blueviolet?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React)
 
 Follow me
 
