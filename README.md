@@ -2,9 +2,6 @@
 
 <!-- ![Screenshot_20221214_110325](https://user-images.githubusercontent.com/75501308/207578710-2fa15b21-dd19-467c-ba65-e9e40ff19405.png) -->
 
-
-## ✨ I'm a beginner Fullstack Developer 🔭
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-blueviolet?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/redux-green?style=for-the-badge&logo=Redux)
