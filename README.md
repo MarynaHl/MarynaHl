@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=MarynaHl)
+
+[![codewars](https://www.codewars.com/users/MarynaHl/badges/small)](https://www.codewars.com/users/MarynaHl) 
