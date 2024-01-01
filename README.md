@@ -1,5 +1,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarynaHl)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarynaHl&layout=compact)](https://github.com/MarynaHl/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarynaHl)](https://github.com/MarynaHl/github-profile-trophy)
 
 <!-- [![Header](https://github.com/MarynaHl/MarynaHl/blob/main/assets/giphy.gif)](https://github.com/MarynaHl?tab=repositories) -->
