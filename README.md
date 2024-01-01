@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=MarynaHl)](https://github.com/MarynaHl/github-profile-trophy)
+
 <!-- [![Header](https://github.com/MarynaHl/MarynaHl/blob/main/assets/giphy.gif)](https://github.com/MarynaHl?tab=repositories) -->
 
 <!-- ![Screenshot_20221214_110325](https://user-images.githubusercontent.com/75501308/207578710-2fa15b21-dd19-467c-ba65-e9e40ff19405.png) -->
