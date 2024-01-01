@@ -48,5 +48,3 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarynaHl&theme=solarized_dark)
 
 [![codewars](https://www.codewars.com/users/MarynaHl/badges/small)](https://www.codewars.com/users/MarynaHl) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarynaHl)](https://github.com/MarynaHl/github-readme-stats)
