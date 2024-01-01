@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarynaHl&theme=solarized_dark)
+
 ![](https://komarev.com/ghpvc/?username=MarynaHl)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarynaHl&layout=compact)](https://github.com/MarynaHl/github-readme-stats)
 [![codewars](https://www.codewars.com/users/MarynaHl/badges/small)](https://www.codewars.com/users/MarynaHl) 
